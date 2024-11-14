@@ -1,7 +1,9 @@
 # About Me
-I am Marco Isabella, a second year student at The Pennsylvania State University in Abington pursuing a degree in Computer Science.
+I am Marco Isabella, a third year student at The Pennsylvania State University in Abington pursuing a degree in Computer Science.
 <br><br>
 I'm currently seeking an internship for the summer of 2025 following my passion for software development.
+<br><br>
+Last summer I had a fruitful internship at AssetWorks Inc. as a Professional Services Intern. You can read more about my experiences as well as a recommendation from them on my LinkedIn page.
 <br><br>
 Throughout high school I took an interest to programming and learned Python and Java through my school's computer science courses, including AP Computer Science. Recently I have begun to take interest in frontend development and am working to translate my skills to HTML5, Javascript, and CSS.
 <br><br>
