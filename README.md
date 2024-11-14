@@ -9,4 +9,6 @@ Throughout high school I took an interest to programming and learned Python and 
 <br><br>
 Outside the realm of Computer Science, I am a Division III NCAA Cross Country and Track and Field Athlete, maintaining discipline throughout all aspects of my life.
 <br><br>
-![Static Badge](https://img.shields.io/badge/-marcoisabella9-white?style=plastic&logo=linkedin&color=%230A66C2)
+<a href="https://www.linkedin.com/in/marcoisabella9">
+  <img src="https://img.shields.io/badge/-marcoisabella9-white?style=plastic&logo=linkedin&color=%230A66C2" alt="LinkedIn Badge">
+</a>
