@@ -5,7 +5,7 @@ I'm currently seeking an internship for the summer of 2025 following my passion 
 <br><br>
 Last summer I had a fruitful internship at AssetWorks Inc. as a Professional Services Intern. You can read more about my experiences as well as a recommendation from them on my LinkedIn page.
 <br><br>
-Throughout high school I took an interest to programming and learned Python and Java through my school's computer science courses, including AP Computer Science. Recently I have begun to take interest in frontend development and am working to translate my skills to HTML5, Javascript, and CSS.
+Throughout high school I took an interest to programming and learned Python and Java through my school's computer science courses, including AP Computer Science.
 <br><br>
 Outside the realm of Computer Science, I am the captain of my schools Mens Cross Country Team, maintaining discipline throughout all aspects of my life.
 <br><br>
